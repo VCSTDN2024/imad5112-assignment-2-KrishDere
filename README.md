@@ -70,17 +70,25 @@ The workflow ensures that my project is automatically built and tested every tim
 )
 *Caption for screenshot 1: [The Start screen of the app]*
 
+
+
 ![Screenshot 2](![Screenshot 2025-05-19 152307](https://github.com/user-attachments/assets/c4849925-764b-42cc-a5eb-5ee8970a3117)
 )
 *Caption for screenshot 2: [The Quiz screen of the app where the user will answer the questions]*
+
+
 
 ![Screenshot 3](![Screenshot 2025-05-19 152350](https://github.com/user-attachments/assets/5d965453-524c-48a3-8a02-90b0dfa6f224)
 )
 *Caption for screenshot 3: [The Score screen of the app where the user can see how much score they have made out of 5]*
 
+
+
 ![Screenshot 4](![Screenshot 2025-05-19 152426](https://github.com/user-attachments/assets/11b79e2d-c307-436f-a983-31ed4092f9ef)
 )
 *Caption for screenshot 3: [The Review screen of the app where the user can see the questions with the answers]*
+
+
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [https://youtu.be/XLV9Jq-lklE].
