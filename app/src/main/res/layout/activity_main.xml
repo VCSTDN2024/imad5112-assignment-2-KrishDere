@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="#03A9F4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="299dp"
+        android:layout_height="64dp"
+        android:id="@+id/Welcome_text"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="216dp"
+        android:layout_marginRight="64dp"
+        android:layout_marginBottom="38dp"
+        android:text="Welcome to the Quiz Game!"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/btnstart2"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:id="@+id/btnstart2"
+        android:layout_marginStart="162dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="162dp"
+        android:layout_marginBottom="22dp"
+        android:textSize="20dp"
+        android:text="Start"
+        android:textColor="@color/white"
+        android:backgroundTint="#050000"
+        app:layout_constraintBottom_toTopOf="@+id/btnExit2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/desc" />
+
+    <Button
+        android:id="@+id/btnExit2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="162dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="162dp"
+        android:layout_marginBottom="275dp"
+        android:backgroundTint="#0F0900"
+        android:text="Exit"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnstart2" />
+
+    <TextView
+        android:layout_width="334dp"
+        android:layout_height="55dp"
+        android:id="@+id/desc"
+        android:textSize="19sp"
+        android:layout_marginStart="176dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="177dp"
+        android:text="Test your Knowledge today with these fun short questions :)"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Welcome_text" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
