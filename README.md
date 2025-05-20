@@ -22,7 +22,7 @@ The app was developed to meet the requirements of the assignment, which includes
 ## Purpose and Features
 
 ### Purpose:
-The main goal of this app is to [The main goal of the App is to provide a fun experience to users by answering some general knowledge questions which will not make the user bored in there free time and they can relax playing this game and also boost there IQ level by answering some general knowledge questions.] 
+The main goal of this app is to [provide a fun experience to users by answering some general knowledge questions which will not make the user bored in there free time and they can relax playing this game and also boost there IQ level by answering some general knowledge questions.] 
 
 ### Key Features:
 - Feature 1: [The App has a user friendly interface as its not complicated and clearly indicates what the user must do next.]
