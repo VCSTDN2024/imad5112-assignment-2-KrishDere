@@ -99,10 +99,10 @@ A video showcasing the app's functionality can be viewed here: [https://youtu.be
 
 During the development of this project, I encountered several challenges, including:
 
-1. **Challenge 1**: [The challenge i was facing while working on the app was connecting the pages to eachother as i was facing problem with Intent function which was not letting the app move to next screen and it was crashing the application.]
-   - **Solution**: [I researched on the issue and found out that even a small detail like having a capital letter insted of small letters can also cause that problem so i changed few commands and retyped the intent which solved the problem.]
+1. **Challenge 1**: [The challenge I was facing while working on the app was connecting the pages to each other as I was facing problem with Intent function which was not letting the app move to next screen and it was crashing the application.]
+   - **Solution**: [I researched on the issue and found out that even a small detail like having a capital letter instead of small letters can also cause that problem so I changed few commands and retyped the intent which solved the problem.]
    
-2. **Challenge 2**: [The challange i was facing was thr review xml was not set properly which was causing the review to not display and it was just showing a blank text view insted of review.]
+2. **Challenge 2**: [The challenge I was facing was the review xml was not set properly which was causing the review to not display and it was just showing a blank text view instead of review.]
    - **Solution**: [I did changes in the xml file and corrected my mistakes making text visible properly and then the review was bring displayed without any issues.]
 
 From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
@@ -113,9 +113,9 @@ From these challenges, I learned important lessons in debugging, using version c
 
 While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
 
-1. **Feature 1**: [I would put more questions and answers so that evertime the user restarts the game they can have diffrent questions to answer.]
+1. **Feature 1**: [I would put more questions and answers so that every time the user restarts the game they can have different questions to answer.]
 2. **Feature 2**: [I will add a new option of Hint so that if the question is confusing for the user they can press on the hint button which will give them an idea about what the possible answer could be.]
-3. **Feature 3**: [Adding a dark mode option for better user experience and a notifation option so when there will be more new questions uploded on the app it will notify the user that there are new more fun questions are added so that it will motivate the user to play the game.]
+3. **Feature 3**: [Adding a dark mode option for better user experience and a notification option so when there will be more new questions uploaded on the app it will notify the user that there are new more fun questions are added so that it will motivate the user to play the game.]
 
 ---
 
