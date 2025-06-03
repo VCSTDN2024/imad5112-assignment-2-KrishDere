@@ -47,3 +47,10 @@ class review : AppCompatActivity() {
         }
     }
 }
+
+open class AppCompatActivity {
+    fun onCreate(savedInstanceState: Bundle?) {
+
+    }
+
+}
